@@ -12,7 +12,7 @@ from scipy import special
 #x2 = np.arange(3.0).reshape((3,1))
 #print(x1)
 #
-#print(np.array(x1)) 
+#print(np.array(x1))
 #print(x2)
 #print(x1*x2)
 #print(x2*x1)
